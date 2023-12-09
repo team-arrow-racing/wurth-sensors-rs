@@ -1,5 +1,6 @@
 # Würth Elektronik Sensor Communication
-Rust firmware for communicating with the range of sensors that Würth Elektronik produce.
+
+Rust drivers for communicating with the full range of sensors that Würth Elektronik produce.
 
 ## Cargo Workspace
 
