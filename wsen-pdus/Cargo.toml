@@ -7,3 +7,9 @@ edition = "2021"
 
 [dependencies]
 embedded-hal = { workspace = true }
+
+[features]
+default = ["analog", "i2c"]
+
+analog = []
+i2c = []
