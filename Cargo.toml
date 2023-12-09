@@ -1,0 +1,13 @@
+[workspace]
+resolver = "2"
+members = [
+    "wsen-hids",
+    "wsen-isds",
+    "wsen-itds",
+    "wsen-pads",
+    "wsen-pdus",
+    "wsen-tids",
+]
+
+[workspace.dependencies]
+embedded-hal = "0.2.7"
