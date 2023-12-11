@@ -1,6 +1,8 @@
 # Würth Elektronik Sensor Communication
 
-Rust drivers for communicating with the full range of sensors that Würth Elektronik produce.
+Rust drivers for communicating with the full range of sensors that Würth Elektronik produce. These crates are implemented upon the [`embedded-hal`](https://github.com/rust-embedded/embedded-hal) traits for ease of portability.
+
+Please see the `REAME.md` files in each crate for instructions on how to use the drivers.
 
 ## Cargo Workspace
 
